@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/jijuyong">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=#f4acb7&fontSize=54&height=90&width=1146&text=%E2%84%8C%F0%9D%94%A2%F0%9D%94%A9%F0%9D%94%A9%F0%9D%94%AC!%20%E2%84%91'%F0%9D%94%AA%20%F0%9D%94%8D%F0%9D%94%A6%20%F0%9D%94%8D%F0%9D%94%B2%F0%9D%94%B6%F0%9D%94%AC%F0%9D%94%AB%F0%9D%94%A4" alt="ℌ𝔢𝔩𝔩𝔬! ℑ'𝔪 𝔍𝔦 𝔍𝔲𝔶𝔬𝔫𝔤" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=f4acb7&fontSize=54&height=90&width=1146&text=%E2%84%8C%F0%9D%94%A2%F0%9D%94%A9%F0%9D%94%A9%F0%9D%94%AC!%20%E2%84%91'%F0%9D%94%AA%20%F0%9D%94%8D%F0%9D%94%A6%20%F0%9D%94%8D%F0%9D%94%B2%F0%9D%94%B6%F0%9D%94%AC%F0%9D%94%AB%F0%9D%94%A4" alt="ℌ𝔢𝔩𝔩𝔬! ℑ'𝔪 𝔍𝔦 𝔍𝔲𝔶𝔬𝔫𝔤" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=20&pause=1000&color=#21e6c1&center=true&vCenter=true&width=900&height=44&lines=%E2%9A%A1%20M%E1%BB%99t%20ch%C3%BAt%20code.%20M%E1%BB%99t%20ch%C3%BAt%20chaos.%20R%E1%BA%A5t%20nhi%E1%BB%81u%20l%E1%BA%A7n%20debug.%20%F0%9F%92%BB%F0%9F%94%90" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=20&pause=1000&color=21e6c1&center=true&vCenter=true&width=900&height=44&lines=%E2%9A%A1%20M%E1%BB%99t%20ch%C3%BAt%20code.%20M%E1%BB%99t%20ch%C3%BAt%20chaos.%20R%E1%BA%A5t%20nhi%E1%BB%81u%20l%E1%BA%A7n%20debug.%20%F0%9F%92%BB%F0%9F%94%90" alt="Typing headlines" />
 </p>
 
 ### 🛠️ Tech Stack
