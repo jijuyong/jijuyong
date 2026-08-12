@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/jijuyong">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ff69b4&fontSize=54&height=90&width=1146&text=%E2%84%8C%F0%9D%94%A2%F0%9D%94%A9%F0%9D%94%A9%F0%9D%94%AC!%20%E2%84%91'%F0%9D%94%AA%20%F0%9D%94%8D%F0%9D%94%A6%20%F0%9D%94%8D%F0%9D%94%B2%F0%9D%94%B6%F0%9D%94%AC%F0%9D%94%AB%F0%9D%94%A4" alt="ℌ𝔢𝔩𝔩𝔬! ℑ'𝔪 𝔍𝔦 𝔍𝔲𝔶𝔬𝔫𝔤" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffb7b2&fontSize=54&height=90&width=1146&text=%E2%84%8C%F0%9D%94%A2%F0%9D%94%A9%F0%9D%94%A9%F0%9D%94%AC!%20%E2%84%91'%F0%9D%94%AA%20%F0%9D%94%8D%F0%9D%94%A6%20%F0%9D%94%8D%F0%9D%94%B2%F0%9D%94%B6%F0%9D%94%AC%F0%9D%94%AB%F0%9D%94%A4" alt="ℌ𝔢𝔩𝔩𝔬! ℑ'𝔪 𝔍𝔦 𝔍𝔲𝔶𝔬𝔫𝔤" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=22&pause=1000&color=ff69b4&center=true&vCenter=true&width=900&height=44&lines=%F0%9F%8C%B8%20M%E1%BB%99t%20ch%C3%BAt%20code.%20M%E1%BB%99t%20ch%C3%BAt%20chaos.%20R%E1%BA%A5t%20nhi%E1%BB%81u%20l%E1%BA%A7n%20debug.%20%F0%9F%8C%B8" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=24&pause=1000&color=ffb7b2&center=true&vCenter=true&width=1000&height=44&lines=%F0%9F%8C%B8%20M%E1%BB%99t%20ch%C3%BAt%20code.%20M%E1%BB%99t%20ch%C3%BAt%20chaos.%20R%E1%BA%A5t%20nhi%E1%BB%81u%20l%E1%BA%A7n%20debug.%20%F0%9F%8C%B8" alt="Typing headlines" />
 </p>
 
 ### 🌸 Tech Stack
@@ -23,20 +23,20 @@
 ### 🌷 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=jijuyong&show_icons=true&theme=rose_pine&title_color=ff69b4&icon_color=ff69b4&text_color=5c3d2e&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=jijuyong&layout=compact&theme=rose_pine&title_color=ff69b4&icon_color=ff69b4&text_color=5c3d2e&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=jijuyong&show_icons=true&theme=dark&title_color=ffb7b2&icon_color=ffb7b2&text_color=ffffff&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=jijuyong&layout=compact&theme=dark&title_color=ffb7b2&icon_color=ffb7b2&text_color=ffffff&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 🌺 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jijuyong&bg_color=00000000&color=ff69b4&line=ff69b4&point=5c3d2e&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jijuyong&bg_color=00000000&color=ffb7b2&line=ffb7b2&point=ffffff&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=rose_pine" alt="Dev quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev quote" />
 </p>
 
 ---
