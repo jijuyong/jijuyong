@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=28&pause=1000&color=ffb7b2&center=true&vCenter=true&width=900&height=44&lines=⚡+Một+chút+code.+Một+chút+chaos.+Rất+nhiều+lần+debug.+💻🔑" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=28&pause=1000&color=ffb7b2&center=true&vCenter=true&width=900&height=44&lines=%E2%9A%A1%20M%E1%BB%99t%20ch%C3%BAt%20code.%20M%E1%BB%99t%20ch%C3%BAt%20chaos.%20R%E1%BA%A5t%20nhi%E1%BB%81u%20l%E1%BA%A7n%20debug.%20%F0%9F%92%BB%F0%9F%94%90" alt="Typing headlines" />
 </p>
 
 ### 🛠️ Tech Stack
